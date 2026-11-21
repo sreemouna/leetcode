@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-21T04:58:46.223Z",
+  "updatedAt": "2026-11-21T04:59:59.808Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "b6e5d183f074289968e6760a56a857f2c6befc2e",
           "lastSyncedAt": "2026-11-21T04:58:26.408Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3551",
+      "title": "Minimum Swaps to Sort by Digit Sum",
+      "slug": "minimum-swaps-to-sort-by-digit-sum",
+      "problemName": "3551-minimum-swaps-to-sort-by-digit-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/",
+      "folderPath": "3551-minimum-swaps-to-sort-by-digit-sum/",
+      "readmePath": "3551-minimum-swaps-to-sort-by-digit-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3551-minimum-swaps-to-sort-by-digit-sum.java",
+          "path": "3551-minimum-swaps-to-sort-by-digit-sum/3551-minimum-swaps-to-sort-by-digit-sum.java",
+          "sha": "933dffa809604115165aaacdbdb68d8408419a45",
+          "lastSyncedAt": "2026-11-21T04:59:59.808Z"
         }
       ]
     }
