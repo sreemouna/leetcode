@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-21T05:17:39.849Z",
+  "updatedAt": "2026-11-21T05:17:45.937Z",
   "problems": [
     {
       "frontendId": "1",
@@ -803,7 +803,7 @@
           "filename": "3644-maximum-k-to-sort-a-permutation.java",
           "path": "3644-maximum-k-to-sort-a-permutation/3644-maximum-k-to-sort-a-permutation.java",
           "sha": "f51c585ccfd88aab65d1dd212a3be523f18a537c",
-          "lastSyncedAt": "2026-11-21T04:58:56.214Z"
+          "lastSyncedAt": "2026-11-21T05:17:45.937Z"
         }
       ]
     },
