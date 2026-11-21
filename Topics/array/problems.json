@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-21T05:08:54.139Z",
+  "updatedAt": "2026-11-21T05:09:00.898Z",
   "problems": [
     {
       "frontendId": "1",
@@ -584,6 +584,26 @@
           "path": "3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.java",
           "sha": "0efd20c67bc1f393019bb068249fbeb5e5c8380a",
           "lastSyncedAt": "2026-11-21T05:07:59.255Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4039",
+      "title": "Sum of Decoded Numbers",
+      "slug": "sum-of-decoded-numbers",
+      "problemName": "4039-sum-of-decoded-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-decoded-numbers/",
+      "folderPath": "4039-sum-of-decoded-numbers/",
+      "readmePath": "4039-sum-of-decoded-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4039-sum-of-decoded-numbers.py",
+          "path": "4039-sum-of-decoded-numbers/4039-sum-of-decoded-numbers.py",
+          "sha": "1564d71f42f1280cec03c7cdde6ce13ca906dc80",
+          "lastSyncedAt": "2026-11-21T05:09:00.898Z"
         }
       ]
     },
