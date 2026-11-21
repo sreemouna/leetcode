@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-11-21T05:09:32.027Z",
+  "updatedAt": "2026-11-21T05:10:02.058Z",
   "problems": [
     {
       "frontendId": "2778",
@@ -44,6 +44,26 @@
           "path": "3483-unique-3-digit-even-numbers/3483-unique-3-digit-even-numbers.java",
           "sha": "335cde772b0f676f4ae3470451ef20b555406378",
           "lastSyncedAt": "2026-11-21T05:07:13.378Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3734",
+      "title": "Lexicographically Smallest Palindromic Permutation Greater Than Target",
+      "slug": "lexicographically-smallest-palindromic-permutation-greater-than-target",
+      "problemName": "3734-lexicographically-smallest-palindromic-permutation-greater-than-target",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/",
+      "folderPath": "3734-lexicographically-smallest-palindromic-permutation-greater-than-target/",
+      "readmePath": "3734-lexicographically-smallest-palindromic-permutation-greater-than-target/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3734-lexicographically-smallest-palindromic-permutation-greater-than-target.java",
+          "path": "3734-lexicographically-smallest-palindromic-permutation-greater-than-target/3734-lexicographically-smallest-palindromic-permutation-greater-than-target.java",
+          "sha": "31bb074347d826f0a5899fde9dc19289367fccec",
+          "lastSyncedAt": "2026-11-21T05:10:02.058Z"
         }
       ]
     },
