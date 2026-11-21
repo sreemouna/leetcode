@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-21T05:12:03.127Z",
+  "updatedAt": "2026-11-21T05:12:12.188Z",
   "problems": [
     {
       "frontendId": "1",
@@ -64,6 +64,26 @@
           "path": "0835-image-overlap/0835-image-overlap.java",
           "sha": "b601c4242c3337c291b48f6cf97b534cbe82f355",
           "lastSyncedAt": "2026-11-21T05:06:12.905Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1386",
+      "title": "Cinema Seat Allocation",
+      "slug": "cinema-seat-allocation",
+      "problemName": "1386-cinema-seat-allocation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/cinema-seat-allocation/",
+      "folderPath": "1386-cinema-seat-allocation/",
+      "readmePath": "1386-cinema-seat-allocation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1386-cinema-seat-allocation.java",
+          "path": "1386-cinema-seat-allocation/1386-cinema-seat-allocation.java",
+          "sha": "b52b99f74ebf6ca74c726e74200b206c65d58123",
+          "lastSyncedAt": "2026-11-21T05:12:12.188Z"
         }
       ]
     },
