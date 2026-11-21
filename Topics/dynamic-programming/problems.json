@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-21T05:10:38.793Z",
+  "updatedAt": "2026-11-21T05:12:31.127Z",
   "problems": [
     {
       "frontendId": "22",
@@ -64,6 +64,26 @@
           "path": "0115-distinct-subsequences/0115-distinct-subsequences.java",
           "sha": "585ffdce166dc4170b6876fe469504b057c7ca52",
           "lastSyncedAt": "2026-11-21T05:07:52.913Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "139",
+      "title": "Word Break",
+      "slug": "word-break",
+      "problemName": "0139-word-break",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break/",
+      "folderPath": "0139-word-break/",
+      "readmePath": "0139-word-break/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0139-word-break.java",
+          "path": "0139-word-break/0139-word-break.java",
+          "sha": "89b8b1472e02cbac0878dcf49d3d6dd486c58a7b",
+          "lastSyncedAt": "2026-11-21T05:12:31.127Z"
         }
       ]
     },
