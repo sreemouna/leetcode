@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-21T05:04:02.591Z",
+  "updatedAt": "2026-11-21T05:04:26.317Z",
   "problems": [
     {
       "frontendId": "1",
@@ -64,6 +64,26 @@
           "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.java",
           "sha": "bd5e67fa8ca1d84d22868856c4b9af4958b95e89",
           "lastSyncedAt": "2026-11-21T05:04:02.591Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1658",
+      "title": "Minimum Operations to Reduce X to Zero",
+      "slug": "minimum-operations-to-reduce-x-to-zero",
+      "problemName": "1658-minimum-operations-to-reduce-x-to-zero",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/",
+      "folderPath": "1658-minimum-operations-to-reduce-x-to-zero/",
+      "readmePath": "1658-minimum-operations-to-reduce-x-to-zero/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1658-minimum-operations-to-reduce-x-to-zero.java",
+          "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.java",
+          "sha": "b38d6d68139cdc7b6f21bd3593a83aa40fcc3650",
+          "lastSyncedAt": "2026-11-21T05:04:26.317Z"
         }
       ]
     },
