@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-11-21T05:07:13.378Z",
+  "updatedAt": "2026-11-21T05:09:32.027Z",
   "problems": [
     {
       "frontendId": "2778",
@@ -64,6 +64,26 @@
           "path": "3886-sum-of-sortable-integers/3886-sum-of-sortable-integers.java",
           "sha": "cff7f05c95d6887820195b163278fad77f855cb9",
           "lastSyncedAt": "2026-11-21T04:59:04.107Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4035",
+      "title": "Maximum Valid Split Positions I",
+      "slug": "maximum-valid-split-positions-i",
+      "problemName": "4035-maximum-valid-split-positions-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-valid-split-positions-i/",
+      "folderPath": "4035-maximum-valid-split-positions-i/",
+      "readmePath": "4035-maximum-valid-split-positions-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4035-maximum-valid-split-positions-i.py",
+          "path": "4035-maximum-valid-split-positions-i/4035-maximum-valid-split-positions-i.py",
+          "sha": "6a650b9d6badb2a5e126abde4c1e90c270e46056",
+          "lastSyncedAt": "2026-11-21T05:09:32.027Z"
         }
       ]
     }
