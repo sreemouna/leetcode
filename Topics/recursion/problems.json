@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-21T04:58:36.138Z",
+  "updatedAt": "2026-11-21T05:02:03.914Z",
   "problems": [
     {
       "frontendId": "2",
@@ -24,6 +24,26 @@
           "path": "0002-add-two-numbers/0002-add-two-numbers.java",
           "sha": "77888b26b05269fa7a2f0aee3b72c9d3e2679c29",
           "lastSyncedAt": "2026-11-21T04:58:36.138Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "60",
+      "title": "Permutation Sequence",
+      "slug": "permutation-sequence",
+      "problemName": "0060-permutation-sequence",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/permutation-sequence/",
+      "folderPath": "0060-permutation-sequence/",
+      "readmePath": "0060-permutation-sequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0060-permutation-sequence.java",
+          "path": "0060-permutation-sequence/0060-permutation-sequence.java",
+          "sha": "13141b57c40139433b205b2d6f516d0bf521c432",
+          "lastSyncedAt": "2026-11-21T05:02:03.914Z"
         }
       ]
     }
