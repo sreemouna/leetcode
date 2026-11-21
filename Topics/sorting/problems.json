@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-21T05:01:06.882Z",
+  "updatedAt": "2026-11-21T05:04:02.591Z",
   "problems": [
+    {
+      "frontendId": "1096",
+      "title": "Brace Expansion II",
+      "slug": "brace-expansion-ii",
+      "problemName": "1096-brace-expansion-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/brace-expansion-ii/",
+      "folderPath": "1096-brace-expansion-ii/",
+      "readmePath": "1096-brace-expansion-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1096-brace-expansion-ii.java",
+          "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.java",
+          "sha": "bd5e67fa8ca1d84d22868856c4b9af4958b95e89",
+          "lastSyncedAt": "2026-11-21T05:04:02.591Z"
+        }
+      ]
+    },
     {
       "frontendId": "2089",
       "title": "Find Target Indices After Sorting Array",
