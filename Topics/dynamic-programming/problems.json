@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-21T05:15:54.788Z",
+  "updatedAt": "2026-11-21T05:16:09.669Z",
   "problems": [
     {
       "frontendId": "22",
@@ -104,6 +104,26 @@
           "path": "0678-valid-parenthesis-string/0678-valid-parenthesis-string.java",
           "sha": "7a8a5882eacf052679d773ce8fa9b42038755518",
           "lastSyncedAt": "2026-11-21T05:02:18.866Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "877",
+      "title": "Stone Game",
+      "slug": "stone-game",
+      "problemName": "0877-stone-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game/",
+      "folderPath": "0877-stone-game/",
+      "readmePath": "0877-stone-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0877-stone-game.java",
+          "path": "0877-stone-game/0877-stone-game.java",
+          "sha": "f58319ce981893e8dbd119b9be5aa4bb18c16870",
+          "lastSyncedAt": "2026-11-21T05:16:09.669Z"
         }
       ]
     },
