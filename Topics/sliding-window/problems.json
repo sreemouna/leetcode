@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-21T05:13:27.843Z",
+  "updatedAt": "2026-11-21T05:13:59.034Z",
   "problems": [
     {
       "frontendId": "3",
@@ -84,6 +84,26 @@
           "path": "2904-shortest-and-lexicographically-smallest-beautiful-string/2904-shortest-and-lexicographically-smallest-beautiful-string.java",
           "sha": "6e35d0d8b11c333ab0020131b41b5956c0535cb9",
           "lastSyncedAt": "2026-11-21T05:10:23.504Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2958",
+      "title": "Length of Longest Subarray With at Most K Frequency",
+      "slug": "length-of-longest-subarray-with-at-most-k-frequency",
+      "problemName": "2958-length-of-longest-subarray-with-at-most-k-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/",
+      "folderPath": "2958-length-of-longest-subarray-with-at-most-k-frequency/",
+      "readmePath": "2958-length-of-longest-subarray-with-at-most-k-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2958-length-of-longest-subarray-with-at-most-k-frequency.java",
+          "path": "2958-length-of-longest-subarray-with-at-most-k-frequency/2958-length-of-longest-subarray-with-at-most-k-frequency.java",
+          "sha": "bfebbfdf74ed31a05507e7bed86e88a353382a88",
+          "lastSyncedAt": "2026-11-21T05:13:59.034Z"
         }
       ]
     },
