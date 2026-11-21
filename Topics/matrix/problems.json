@@ -5,8 +5,28 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-21T05:03:02.736Z",
+  "updatedAt": "2026-11-21T05:06:12.905Z",
   "problems": [
+    {
+      "frontendId": "835",
+      "title": "Image Overlap",
+      "slug": "image-overlap",
+      "problemName": "0835-image-overlap",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/image-overlap/",
+      "folderPath": "0835-image-overlap/",
+      "readmePath": "0835-image-overlap/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0835-image-overlap.java",
+          "path": "0835-image-overlap/0835-image-overlap.java",
+          "sha": "b601c4242c3337c291b48f6cf97b534cbe82f355",
+          "lastSyncedAt": "2026-11-21T05:06:12.905Z"
+        }
+      ]
+    },
     {
       "frontendId": "2267",
       "title": " Check if There Is a Valid Parentheses String Path",
