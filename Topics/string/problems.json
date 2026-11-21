@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-21T05:01:20.516Z",
+  "updatedAt": "2026-11-21T05:01:34.014Z",
   "problems": [
     {
       "frontendId": "3",
@@ -44,6 +44,26 @@
           "path": "0006-zigzag-conversion/0006-zigzag-conversion.java",
           "sha": "edc883ee9f12f2732ddfe4ccb5450738e6ad0432",
           "lastSyncedAt": "2026-11-21T04:58:10.146Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1021",
+      "title": "Remove Outermost Parentheses",
+      "slug": "remove-outermost-parentheses",
+      "problemName": "1021-remove-outermost-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-outermost-parentheses/",
+      "folderPath": "1021-remove-outermost-parentheses/",
+      "readmePath": "1021-remove-outermost-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1021-remove-outermost-parentheses.java",
+          "path": "1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.java",
+          "sha": "9e6c1b92b198652e1673f83f80ff945ed4c32740",
+          "lastSyncedAt": "2026-11-21T05:01:34.014Z"
         }
       ]
     },
