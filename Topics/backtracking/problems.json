@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-21T05:04:02.591Z",
+  "updatedAt": "2026-11-21T05:14:56.860Z",
   "problems": [
     {
       "frontendId": "22",
@@ -64,6 +64,26 @@
           "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.java",
           "sha": "bd5e67fa8ca1d84d22868856c4b9af4958b95e89",
           "lastSyncedAt": "2026-11-21T05:04:02.591Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3348",
+      "title": "Smallest Divisible Digit Product II",
+      "slug": "smallest-divisible-digit-product-ii",
+      "problemName": "3348-smallest-divisible-digit-product-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-divisible-digit-product-ii/",
+      "folderPath": "3348-smallest-divisible-digit-product-ii/",
+      "readmePath": "3348-smallest-divisible-digit-product-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3348-smallest-divisible-digit-product-ii.java",
+          "path": "3348-smallest-divisible-digit-product-ii/3348-smallest-divisible-digit-product-ii.java",
+          "sha": "c765819dc063a07081d4680207e9ae6516e2b115",
+          "lastSyncedAt": "2026-11-21T05:14:56.860Z"
         }
       ]
     }
