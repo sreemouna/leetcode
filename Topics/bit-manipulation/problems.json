@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-21T05:09:21.377Z",
+  "updatedAt": "2026-11-21T05:11:33.466Z",
   "problems": [
     {
       "frontendId": "2897",
@@ -64,6 +64,26 @@
           "path": "3644-maximum-k-to-sort-a-permutation/3644-maximum-k-to-sort-a-permutation.java",
           "sha": "f51c585ccfd88aab65d1dd212a3be523f18a537c",
           "lastSyncedAt": "2026-11-21T04:58:56.214Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4030",
+      "title": "Check ASCII Palindromic",
+      "slug": "check-ascii-palindromic",
+      "problemName": "4030-check-ascii-palindromic",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-ascii-palindromic/",
+      "folderPath": "4030-check-ascii-palindromic/",
+      "readmePath": "4030-check-ascii-palindromic/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4030-check-ascii-palindromic.py",
+          "path": "4030-check-ascii-palindromic/4030-check-ascii-palindromic.py",
+          "sha": "94eb2076a6fcf3d14b49d99356a47ca8e95d04f3",
+          "lastSyncedAt": "2026-11-21T05:11:33.466Z"
         }
       ]
     },
