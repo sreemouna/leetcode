@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-21T05:08:06.761Z",
+  "updatedAt": "2026-11-21T05:08:13.574Z",
   "problems": [
     {
       "frontendId": "1",
@@ -444,6 +444,26 @@
           "path": "3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.java",
           "sha": "01115d2d3e8373fc6961c55f20e266a825015c81",
           "lastSyncedAt": "2026-11-21T05:00:41.179Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3876",
+      "title": "Construct Uniform Parity Array II",
+      "slug": "construct-uniform-parity-array-ii",
+      "problemName": "3876-construct-uniform-parity-array-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-ii/",
+      "folderPath": "3876-construct-uniform-parity-array-ii/",
+      "readmePath": "3876-construct-uniform-parity-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3876-construct-uniform-parity-array-ii.java",
+          "path": "3876-construct-uniform-parity-array-ii/3876-construct-uniform-parity-array-ii.java",
+          "sha": "9d0c4537d200fe08ade0633834e26d436f1e397e",
+          "lastSyncedAt": "2026-11-21T05:08:13.574Z"
         }
       ]
     },
