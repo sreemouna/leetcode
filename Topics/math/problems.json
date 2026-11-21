@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-21T05:08:13.574Z",
+  "updatedAt": "2026-11-21T05:08:20.749Z",
   "problems": [
     {
       "frontendId": "2",
@@ -264,6 +264,26 @@
           "path": "3871-count-commas-in-range-ii/3871-count-commas-in-range-ii.java",
           "sha": "2765274056d5fb8c8636342519a6fad420eff7d7",
           "lastSyncedAt": "2026-11-21T05:07:34.779Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3875",
+      "title": "Construct Uniform Parity Array I",
+      "slug": "construct-uniform-parity-array-i",
+      "problemName": "3875-construct-uniform-parity-array-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
+      "folderPath": "3875-construct-uniform-parity-array-i/",
+      "readmePath": "3875-construct-uniform-parity-array-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3875-construct-uniform-parity-array-i.java",
+          "path": "3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.java",
+          "sha": "a37d27c7710947e70f7a104a5ab0459a123f8aad",
+          "lastSyncedAt": "2026-11-21T05:08:20.749Z"
         }
       ]
     },
