@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-21T05:07:34.779Z",
+  "updatedAt": "2026-11-21T05:07:40.300Z",
   "problems": [
     {
       "frontendId": "2",
@@ -224,6 +224,26 @@
           "path": "3723-maximize-sum-of-squares-of-digits/3723-maximize-sum-of-squares-of-digits.java",
           "sha": "a323cfee9721d93143982abd1df3abce62a4578e",
           "lastSyncedAt": "2026-11-21T05:00:32.480Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3870",
+      "title": "Count Commas in Range",
+      "slug": "count-commas-in-range",
+      "problemName": "3870-count-commas-in-range",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-commas-in-range/",
+      "folderPath": "3870-count-commas-in-range/",
+      "readmePath": "3870-count-commas-in-range/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3870-count-commas-in-range.java",
+          "path": "3870-count-commas-in-range/3870-count-commas-in-range.java",
+          "sha": "1507c61181546af6a50c61c6d426722cb98477c6",
+          "lastSyncedAt": "2026-11-21T05:07:40.300Z"
         }
       ]
     },
