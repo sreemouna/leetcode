@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-11-21T05:10:10.962Z",
+  "updatedAt": "2026-11-21T05:15:09.846Z",
   "problems": [
     {
       "frontendId": "2778",
@@ -24,6 +24,26 @@
           "path": "2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.java",
           "sha": "d493ac6dec3b952fd5759376e32fdd3693822e17",
           "lastSyncedAt": "2026-11-21T05:00:59.439Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3345",
+      "title": "Smallest Divisible Digit Product I",
+      "slug": "smallest-divisible-digit-product-i",
+      "problemName": "3345-smallest-divisible-digit-product-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-divisible-digit-product-i/",
+      "folderPath": "3345-smallest-divisible-digit-product-i/",
+      "readmePath": "3345-smallest-divisible-digit-product-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3345-smallest-divisible-digit-product-i.java",
+          "path": "3345-smallest-divisible-digit-product-i/3345-smallest-divisible-digit-product-i.java",
+          "sha": "622c1ffb9d6e09f7ec15c3a0ff2e7f4ac31b0605",
+          "lastSyncedAt": "2026-11-21T05:15:09.846Z"
         }
       ]
     },
