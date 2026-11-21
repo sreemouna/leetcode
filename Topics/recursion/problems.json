@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "recursion",
+    "name": "Recursion",
+    "tagId": "31"
+  },
+  "updatedAt": "2026-11-21T04:58:36.138Z",
+  "problems": [
+    {
+      "frontendId": "2",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "problemName": "0002-add-two-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
+      "folderPath": "0002-add-two-numbers/",
+      "readmePath": "0002-add-two-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0002-add-two-numbers.java",
+          "path": "0002-add-two-numbers/0002-add-two-numbers.java",
+          "sha": "77888b26b05269fa7a2f0aee3b72c9d3e2679c29",
+          "lastSyncedAt": "2026-11-21T04:58:36.138Z"
+        }
+      ]
+    }
+  ]
+}
