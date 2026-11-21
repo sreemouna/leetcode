@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-21T05:08:28.241Z",
+  "updatedAt": "2026-11-21T05:15:17.438Z",
   "problems": [
     {
       "frontendId": "301",
@@ -44,6 +44,26 @@
           "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.java",
           "sha": "bd5e67fa8ca1d84d22868856c4b9af4958b95e89",
           "lastSyncedAt": "2026-11-21T05:04:02.591Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3310",
+      "title": "Remove Methods From Project",
+      "slug": "remove-methods-from-project",
+      "problemName": "3310-remove-methods-from-project",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-methods-from-project/",
+      "folderPath": "3310-remove-methods-from-project/",
+      "readmePath": "3310-remove-methods-from-project/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3310-remove-methods-from-project.java",
+          "path": "3310-remove-methods-from-project/3310-remove-methods-from-project.java",
+          "sha": "50c9b5103d473015536c6147b3f6777d8e5255c4",
+          "lastSyncedAt": "2026-11-21T05:15:17.438Z"
         }
       ]
     },
