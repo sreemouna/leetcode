@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-21T05:04:58.839Z",
+  "updatedAt": "2026-11-21T05:06:30.372Z",
   "problems": [
     {
       "frontendId": "3498",
@@ -24,6 +24,26 @@
           "path": "3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.java",
           "sha": "e133fed4901051751974810679393bb7269e0703",
           "lastSyncedAt": "2026-11-21T05:04:58.839Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4052",
+      "title": "Cyclically Shift Rows and Columns",
+      "slug": "cyclically-shift-rows-and-columns",
+      "problemName": "4052-cyclically-shift-rows-and-columns",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/cyclically-shift-rows-and-columns/",
+      "folderPath": "4052-cyclically-shift-rows-and-columns/",
+      "readmePath": "4052-cyclically-shift-rows-and-columns/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4052-cyclically-shift-rows-and-columns.py",
+          "path": "4052-cyclically-shift-rows-and-columns/4052-cyclically-shift-rows-and-columns.py",
+          "sha": "536f491f94d19a6a4520773434120f8182c091fe",
+          "lastSyncedAt": "2026-11-21T05:06:30.372Z"
         }
       ]
     }
