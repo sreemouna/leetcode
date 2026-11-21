@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-21T05:17:45.937Z",
+  "updatedAt": "2026-11-21T05:17:51.164Z",
   "problems": [
     {
       "frontendId": "1",
@@ -943,7 +943,7 @@
           "filename": "3886-sum-of-sortable-integers.java",
           "path": "3886-sum-of-sortable-integers/3886-sum-of-sortable-integers.java",
           "sha": "cff7f05c95d6887820195b163278fad77f855cb9",
-          "lastSyncedAt": "2026-11-21T04:59:04.107Z"
+          "lastSyncedAt": "2026-11-21T05:17:51.164Z"
         }
       ]
     },
