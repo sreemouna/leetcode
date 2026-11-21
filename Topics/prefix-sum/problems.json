@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-21T05:14:28.411Z",
+  "updatedAt": "2026-11-21T05:15:54.788Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -84,6 +84,26 @@
           "path": "1872-stone-game-viii/1872-stone-game-viii.java",
           "sha": "2eb35fe504ff5ba389d5e1fa8ca3f9827e040b02",
           "lastSyncedAt": "2026-11-21T05:10:38.793Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3699",
+      "title": "Number of ZigZag Arrays I",
+      "slug": "number-of-zigzag-arrays-i",
+      "problemName": "3699-number-of-zigzag-arrays-i",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-zigzag-arrays-i/",
+      "folderPath": "3699-number-of-zigzag-arrays-i/",
+      "readmePath": "3699-number-of-zigzag-arrays-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3699-number-of-zigzag-arrays-i.java",
+          "path": "3699-number-of-zigzag-arrays-i/3699-number-of-zigzag-arrays-i.java",
+          "sha": "ec173677d12ecc1c66bf9063ae29d29338d7fe6c",
+          "lastSyncedAt": "2026-11-21T05:15:54.788Z"
         }
       ]
     },
