@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-21T05:04:26.317Z",
+  "updatedAt": "2026-11-21T05:04:41.001Z",
   "problems": [
     {
       "frontendId": "1",
@@ -244,6 +244,26 @@
           "path": "2916-subarrays-distinct-element-sum-of-squares-ii/2916-subarrays-distinct-element-sum-of-squares-ii.java",
           "sha": "86be5bdab5481f519416dcf1884bec348c46d47e",
           "lastSyncedAt": "2026-11-21T05:00:08.949Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3525",
+      "title": "Find X Value of Array II",
+      "slug": "find-x-value-of-array-ii",
+      "problemName": "3525-find-x-value-of-array-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-x-value-of-array-ii/",
+      "folderPath": "3525-find-x-value-of-array-ii/",
+      "readmePath": "3525-find-x-value-of-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3525-find-x-value-of-array-ii.java",
+          "path": "3525-find-x-value-of-array-ii/3525-find-x-value-of-array-ii.java",
+          "sha": "afa410123af1c5f8cbbea16af49a59dc42fbd73c",
+          "lastSyncedAt": "2026-11-21T05:04:41.001Z"
         }
       ]
     },
