@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-21T05:01:06.882Z",
+  "updatedAt": "2026-11-21T05:04:26.317Z",
   "problems": [
     {
       "frontendId": "4",
@@ -24,6 +24,26 @@
           "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.java",
           "sha": "0a11e5e4d3e3b807c216b41a1b0545ebd28fa22d",
           "lastSyncedAt": "2026-11-21T04:58:15.151Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1658",
+      "title": "Minimum Operations to Reduce X to Zero",
+      "slug": "minimum-operations-to-reduce-x-to-zero",
+      "problemName": "1658-minimum-operations-to-reduce-x-to-zero",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/",
+      "folderPath": "1658-minimum-operations-to-reduce-x-to-zero/",
+      "readmePath": "1658-minimum-operations-to-reduce-x-to-zero/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1658-minimum-operations-to-reduce-x-to-zero.java",
+          "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.java",
+          "sha": "b38d6d68139cdc7b6f21bd3593a83aa40fcc3650",
+          "lastSyncedAt": "2026-11-21T05:04:26.317Z"
         }
       ]
     },
