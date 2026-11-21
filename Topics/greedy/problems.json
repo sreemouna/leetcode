@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-21T05:05:54.108Z",
+  "updatedAt": "2026-11-21T05:08:47.175Z",
   "problems": [
     {
       "frontendId": "678",
@@ -84,6 +84,26 @@
           "path": "1541-minimum-insertions-to-balance-a-parentheses-string/1541-minimum-insertions-to-balance-a-parentheses-string.java",
           "sha": "d863c0ad40898deca2dd9f103a5dff47de177a39",
           "lastSyncedAt": "2026-11-21T05:01:20.516Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2091",
+      "title": "Removing Minimum and Maximum From Array",
+      "slug": "removing-minimum-and-maximum-from-array",
+      "problemName": "2091-removing-minimum-and-maximum-from-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/removing-minimum-and-maximum-from-array/",
+      "folderPath": "2091-removing-minimum-and-maximum-from-array/",
+      "readmePath": "2091-removing-minimum-and-maximum-from-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2091-removing-minimum-and-maximum-from-array.java",
+          "path": "2091-removing-minimum-and-maximum-from-array/2091-removing-minimum-and-maximum-from-array.java",
+          "sha": "2117404e2e6741ab9c217bd9471d79097f9b478c",
+          "lastSyncedAt": "2026-11-21T05:08:47.175Z"
         }
       ]
     },
