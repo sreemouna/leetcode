@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-21T05:06:05.521Z",
+  "updatedAt": "2026-11-21T05:06:39.378Z",
   "problems": [
     {
       "frontendId": "2",
@@ -244,6 +244,26 @@
           "path": "3886-sum-of-sortable-integers/3886-sum-of-sortable-integers.java",
           "sha": "cff7f05c95d6887820195b163278fad77f855cb9",
           "lastSyncedAt": "2026-11-21T04:59:04.107Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4050",
+      "title": "Minimum Days to Score Exactly N Points",
+      "slug": "minimum-days-to-score-exactly-n-points",
+      "problemName": "4050-minimum-days-to-score-exactly-n-points",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-days-to-score-exactly-n-points/",
+      "folderPath": "4050-minimum-days-to-score-exactly-n-points/",
+      "readmePath": "4050-minimum-days-to-score-exactly-n-points/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4050-minimum-days-to-score-exactly-n-points.py",
+          "path": "4050-minimum-days-to-score-exactly-n-points/4050-minimum-days-to-score-exactly-n-points.py",
+          "sha": "bed6a853a667032c07d2dd8e48d24117633a3310",
+          "lastSyncedAt": "2026-11-21T05:06:39.378Z"
         }
       ]
     },
