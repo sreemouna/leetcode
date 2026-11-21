@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "brainteaser",
+    "name": "Brainteaser",
+    "tagId": "32"
+  },
+  "updatedAt": "2026-11-21T05:03:39.664Z",
+  "problems": [
+    {
+      "frontendId": "4062",
+      "title": "Transform Array Using Pair Operations",
+      "slug": "transform-array-using-pair-operations",
+      "problemName": "4062-transform-array-using-pair-operations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/transform-array-using-pair-operations/",
+      "folderPath": "4062-transform-array-using-pair-operations/",
+      "readmePath": "4062-transform-array-using-pair-operations/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4062-transform-array-using-pair-operations.py",
+          "path": "4062-transform-array-using-pair-operations/4062-transform-array-using-pair-operations.py",
+          "sha": "50f9d82e4f057985756df71136a6d4b57f9c40fe",
+          "lastSyncedAt": "2026-11-21T05:03:39.664Z"
+        }
+      ]
+    }
+  ]
+}
