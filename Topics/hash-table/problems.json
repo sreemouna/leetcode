@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-21T05:05:29.337Z",
+  "updatedAt": "2026-11-21T05:06:47.160Z",
   "problems": [
     {
       "frontendId": "1",
@@ -224,6 +224,26 @@
           "path": "3551-minimum-swaps-to-sort-by-digit-sum/3551-minimum-swaps-to-sort-by-digit-sum.java",
           "sha": "933dffa809604115165aaacdbdb68d8408419a45",
           "lastSyncedAt": "2026-11-21T04:59:59.808Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4049",
+      "title": "Count Values With Equally Spaced Occurrences II",
+      "slug": "count-values-with-equally-spaced-occurrences-ii",
+      "problemName": "4049-count-values-with-equally-spaced-occurrences-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/",
+      "folderPath": "4049-count-values-with-equally-spaced-occurrences-ii/",
+      "readmePath": "4049-count-values-with-equally-spaced-occurrences-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4049-count-values-with-equally-spaced-occurrences-ii.py",
+          "path": "4049-count-values-with-equally-spaced-occurrences-ii/4049-count-values-with-equally-spaced-occurrences-ii.py",
+          "sha": "e3d3c3da59c869c1f9c120307d66b4a7dee424e9",
+          "lastSyncedAt": "2026-11-21T05:06:47.160Z"
         }
       ]
     },
