@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-21T05:07:52.913Z",
+  "updatedAt": "2026-11-21T05:08:54.139Z",
   "problems": [
     {
       "frontendId": "22",
@@ -244,6 +244,26 @@
           "path": "3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.java",
           "sha": "c58cb2eb3e05d413914971e8e2301e54f318d6e4",
           "lastSyncedAt": "2026-11-21T05:04:49.910Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4040",
+      "title": "Minimum Operations to Form Subset Sum I",
+      "slug": "minimum-operations-to-form-subset-sum-i",
+      "problemName": "4040-minimum-operations-to-form-subset-sum-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-form-subset-sum-i/",
+      "folderPath": "4040-minimum-operations-to-form-subset-sum-i/",
+      "readmePath": "4040-minimum-operations-to-form-subset-sum-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4040-minimum-operations-to-form-subset-sum-i.py",
+          "path": "4040-minimum-operations-to-form-subset-sum-i/4040-minimum-operations-to-form-subset-sum-i.py",
+          "sha": "67c67c927bf28999311aedaf0b4afaa71510f14a",
+          "lastSyncedAt": "2026-11-21T05:08:54.139Z"
         }
       ]
     },
