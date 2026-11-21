@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-11-21T04:59:25.298Z",
+  "updatedAt": "2026-11-21T05:17:19.510Z",
   "problems": [
     {
       "frontendId": "4",
@@ -23,7 +23,7 @@
           "filename": "0004-median-of-two-sorted-arrays.java",
           "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.java",
           "sha": "0a11e5e4d3e3b807c216b41a1b0545ebd28fa22d",
-          "lastSyncedAt": "2026-11-21T04:58:15.151Z"
+          "lastSyncedAt": "2026-11-21T05:17:19.510Z"
         }
       ]
     },
