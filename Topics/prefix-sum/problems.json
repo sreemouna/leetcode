@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-21T05:07:59.255Z",
+  "updatedAt": "2026-11-21T05:08:06.761Z",
   "problems": [
     {
       "frontendId": "1621",
@@ -44,6 +44,26 @@
           "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.java",
           "sha": "b38d6d68139cdc7b6f21bd3593a83aa40fcc3650",
           "lastSyncedAt": "2026-11-21T05:04:26.317Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3903",
+      "title": "Smallest Stable Index I",
+      "slug": "smallest-stable-index-i",
+      "problemName": "3903-smallest-stable-index-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-stable-index-i/",
+      "folderPath": "3903-smallest-stable-index-i/",
+      "readmePath": "3903-smallest-stable-index-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3903-smallest-stable-index-i.java",
+          "path": "3903-smallest-stable-index-i/3903-smallest-stable-index-i.java",
+          "sha": "3f7c7a138c4a4bdc18133b217516d1d6b5ac2f13",
+          "lastSyncedAt": "2026-11-21T05:08:06.761Z"
         }
       ]
     },
