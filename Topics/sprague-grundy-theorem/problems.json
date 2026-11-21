@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sprague-grundy-theorem",
+    "name": "Sprague–Grundy Theorem",
+    "tagId": "122056"
+  },
+  "updatedAt": "2026-11-21T05:14:07.999Z",
+  "problems": [
+    {
+      "frontendId": "1510",
+      "title": "Stone Game IV",
+      "slug": "stone-game-iv",
+      "problemName": "1510-stone-game-iv",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-iv/",
+      "folderPath": "1510-stone-game-iv/",
+      "readmePath": "1510-stone-game-iv/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1510-stone-game-iv.java",
+          "path": "1510-stone-game-iv/1510-stone-game-iv.java",
+          "sha": "5fbbf1e853724d37966954ce9445e34308ad24a6",
+          "lastSyncedAt": "2026-11-21T05:14:07.999Z"
+        }
+      ]
+    }
+  ]
+}
