@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-21T05:17:51.164Z",
+  "updatedAt": "2026-11-21T05:17:59.762Z",
   "problems": [
     {
       "frontendId": "1",
@@ -363,7 +363,7 @@
           "filename": "2089-find-target-indices-after-sorting-array.java",
           "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.java",
           "sha": "85b331cf05c3c14882ad0a204ff444a528dfb641",
-          "lastSyncedAt": "2026-11-21T04:59:16.565Z"
+          "lastSyncedAt": "2026-11-21T05:17:59.762Z"
         }
       ]
     },
