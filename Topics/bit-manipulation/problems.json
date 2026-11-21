@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-21T05:08:28.241Z",
+  "updatedAt": "2026-11-21T05:09:21.377Z",
   "problems": [
     {
       "frontendId": "2897",
@@ -64,6 +64,26 @@
           "path": "3644-maximum-k-to-sort-a-permutation/3644-maximum-k-to-sort-a-permutation.java",
           "sha": "f51c585ccfd88aab65d1dd212a3be523f18a537c",
           "lastSyncedAt": "2026-11-21T04:58:56.214Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4036",
+      "title": "Lexicographically Largest String After Pair Transformations",
+      "slug": "lexicographically-largest-string-after-pair-transformations",
+      "problemName": "4036-lexicographically-largest-string-after-pair-transformations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-largest-string-after-pair-transformations/",
+      "folderPath": "4036-lexicographically-largest-string-after-pair-transformations/",
+      "readmePath": "4036-lexicographically-largest-string-after-pair-transformations/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4036-lexicographically-largest-string-after-pair-transformations.py",
+          "path": "4036-lexicographically-largest-string-after-pair-transformations/4036-lexicographically-largest-string-after-pair-transformations.py",
+          "sha": "365eaece93dcb6f7ec45aa7950d7e352d24e766e",
+          "lastSyncedAt": "2026-11-21T05:09:21.377Z"
         }
       ]
     }
