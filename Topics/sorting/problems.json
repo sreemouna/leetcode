@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-21T04:59:04.107Z",
+  "updatedAt": "2026-11-21T04:59:16.565Z",
   "problems": [
+    {
+      "frontendId": "2089",
+      "title": "Find Target Indices After Sorting Array",
+      "slug": "find-target-indices-after-sorting-array",
+      "problemName": "2089-find-target-indices-after-sorting-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
+      "folderPath": "2089-find-target-indices-after-sorting-array/",
+      "readmePath": "2089-find-target-indices-after-sorting-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2089-find-target-indices-after-sorting-array.java",
+          "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.java",
+          "sha": "85b331cf05c3c14882ad0a204ff444a528dfb641",
+          "lastSyncedAt": "2026-11-21T04:59:16.565Z"
+        }
+      ]
+    },
     {
       "frontendId": "3886",
       "title": "Sum of Sortable Integers",
