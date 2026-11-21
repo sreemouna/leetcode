@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-21T05:06:30.372Z",
+  "updatedAt": "2026-11-21T05:06:47.160Z",
   "problems": [
     {
       "frontendId": "1",
@@ -424,6 +424,26 @@
           "path": "3886-sum-of-sortable-integers/3886-sum-of-sortable-integers.java",
           "sha": "cff7f05c95d6887820195b163278fad77f855cb9",
           "lastSyncedAt": "2026-11-21T04:59:04.107Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4049",
+      "title": "Count Values With Equally Spaced Occurrences II",
+      "slug": "count-values-with-equally-spaced-occurrences-ii",
+      "problemName": "4049-count-values-with-equally-spaced-occurrences-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/",
+      "folderPath": "4049-count-values-with-equally-spaced-occurrences-ii/",
+      "readmePath": "4049-count-values-with-equally-spaced-occurrences-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4049-count-values-with-equally-spaced-occurrences-ii.py",
+          "path": "4049-count-values-with-equally-spaced-occurrences-ii/4049-count-values-with-equally-spaced-occurrences-ii.py",
+          "sha": "e3d3c3da59c869c1f9c120307d66b4a7dee424e9",
+          "lastSyncedAt": "2026-11-21T05:06:47.160Z"
         }
       ]
     },
