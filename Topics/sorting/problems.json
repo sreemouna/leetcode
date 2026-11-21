@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-21T04:59:59.808Z",
+  "updatedAt": "2026-11-21T05:00:41.179Z",
   "problems": [
     {
       "frontendId": "2089",
@@ -44,6 +44,26 @@
           "path": "3551-minimum-swaps-to-sort-by-digit-sum/3551-minimum-swaps-to-sort-by-digit-sum.java",
           "sha": "933dffa809604115165aaacdbdb68d8408419a45",
           "lastSyncedAt": "2026-11-21T04:59:59.808Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3727",
+      "title": "Maximum Alternating Sum of Squares",
+      "slug": "maximum-alternating-sum-of-squares",
+      "problemName": "3727-maximum-alternating-sum-of-squares",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-alternating-sum-of-squares/",
+      "folderPath": "3727-maximum-alternating-sum-of-squares/",
+      "readmePath": "3727-maximum-alternating-sum-of-squares/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3727-maximum-alternating-sum-of-squares.java",
+          "path": "3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.java",
+          "sha": "01115d2d3e8373fc6961c55f20e266a825015c81",
+          "lastSyncedAt": "2026-11-21T05:00:41.179Z"
         }
       ]
     },
