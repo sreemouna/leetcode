@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-21T05:11:48.308Z",
+  "updatedAt": "2026-11-21T05:12:12.188Z",
   "problems": [
+    {
+      "frontendId": "1386",
+      "title": "Cinema Seat Allocation",
+      "slug": "cinema-seat-allocation",
+      "problemName": "1386-cinema-seat-allocation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/cinema-seat-allocation/",
+      "folderPath": "1386-cinema-seat-allocation/",
+      "readmePath": "1386-cinema-seat-allocation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1386-cinema-seat-allocation.java",
+          "path": "1386-cinema-seat-allocation/1386-cinema-seat-allocation.java",
+          "sha": "b52b99f74ebf6ca74c726e74200b206c65d58123",
+          "lastSyncedAt": "2026-11-21T05:12:12.188Z"
+        }
+      ]
+    },
     {
       "frontendId": "2897",
       "title": "Apply Operations on Array to Maximize Sum of Squares",
