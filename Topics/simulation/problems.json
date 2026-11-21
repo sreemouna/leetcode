@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-21T05:06:30.372Z",
+  "updatedAt": "2026-11-21T05:09:00.898Z",
   "problems": [
     {
       "frontendId": "3498",
@@ -24,6 +24,26 @@
           "path": "3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.java",
           "sha": "e133fed4901051751974810679393bb7269e0703",
           "lastSyncedAt": "2026-11-21T05:04:58.839Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4039",
+      "title": "Sum of Decoded Numbers",
+      "slug": "sum-of-decoded-numbers",
+      "problemName": "4039-sum-of-decoded-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-decoded-numbers/",
+      "folderPath": "4039-sum-of-decoded-numbers/",
+      "readmePath": "4039-sum-of-decoded-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4039-sum-of-decoded-numbers.py",
+          "path": "4039-sum-of-decoded-numbers/4039-sum-of-decoded-numbers.py",
+          "sha": "1564d71f42f1280cec03c7cdde6ce13ca906dc80",
+          "lastSyncedAt": "2026-11-21T05:09:00.898Z"
         }
       ]
     },
