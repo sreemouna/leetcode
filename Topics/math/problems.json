@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-21T05:09:32.027Z",
+  "updatedAt": "2026-11-21T05:09:45.044Z",
   "problems": [
     {
       "frontendId": "2",
@@ -324,6 +324,26 @@
           "path": "3886-sum-of-sortable-integers/3886-sum-of-sortable-integers.java",
           "sha": "cff7f05c95d6887820195b163278fad77f855cb9",
           "lastSyncedAt": "2026-11-21T04:59:04.107Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4034",
+      "title": "Minimum Bishop Moves to Reach Target",
+      "slug": "minimum-bishop-moves-to-reach-target",
+      "problemName": "4034-minimum-bishop-moves-to-reach-target",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-bishop-moves-to-reach-target/",
+      "folderPath": "4034-minimum-bishop-moves-to-reach-target/",
+      "readmePath": "4034-minimum-bishop-moves-to-reach-target/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4034-minimum-bishop-moves-to-reach-target.py",
+          "path": "4034-minimum-bishop-moves-to-reach-target/4034-minimum-bishop-moves-to-reach-target.py",
+          "sha": "b8b621826abe4a8d08fa15de9ccea1dadc6debb5",
+          "lastSyncedAt": "2026-11-21T05:09:45.044Z"
         }
       ]
     },
