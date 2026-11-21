@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-21T05:12:12.188Z",
+  "updatedAt": "2026-11-21T05:13:20.482Z",
   "problems": [
     {
       "frontendId": "1386",
@@ -104,6 +104,26 @@
           "path": "3644-maximum-k-to-sort-a-permutation/3644-maximum-k-to-sort-a-permutation.java",
           "sha": "f51c585ccfd88aab65d1dd212a3be523f18a537c",
           "lastSyncedAt": "2026-11-21T04:58:56.214Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3702",
+      "title": "Longest Subsequence With Non-Zero Bitwise XOR",
+      "slug": "longest-subsequence-with-non-zero-bitwise-xor",
+      "problemName": "3702-longest-subsequence-with-non-zero-bitwise-xor",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/",
+      "folderPath": "3702-longest-subsequence-with-non-zero-bitwise-xor/",
+      "readmePath": "3702-longest-subsequence-with-non-zero-bitwise-xor/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3702-longest-subsequence-with-non-zero-bitwise-xor.java",
+          "path": "3702-longest-subsequence-with-non-zero-bitwise-xor/3702-longest-subsequence-with-non-zero-bitwise-xor.java",
+          "sha": "12ecc5183c7f72b115edcdde1bedde5f763e82d5",
+          "lastSyncedAt": "2026-11-21T05:13:20.482Z"
         }
       ]
     },
