@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-21T05:12:23.922Z",
+  "updatedAt": "2026-11-21T05:12:31.127Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "b6e5d183f074289968e6760a56a857f2c6befc2e",
           "lastSyncedAt": "2026-11-21T04:58:26.408Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "139",
+      "title": "Word Break",
+      "slug": "word-break",
+      "problemName": "0139-word-break",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break/",
+      "folderPath": "0139-word-break/",
+      "readmePath": "0139-word-break/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0139-word-break.java",
+          "path": "0139-word-break/0139-word-break.java",
+          "sha": "89b8b1472e02cbac0878dcf49d3d6dd486c58a7b",
+          "lastSyncedAt": "2026-11-21T05:12:31.127Z"
         }
       ]
     },
