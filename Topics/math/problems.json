@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-21T05:04:41.001Z",
+  "updatedAt": "2026-11-21T05:04:49.910Z",
   "problems": [
     {
       "frontendId": "2",
@@ -84,6 +84,26 @@
           "path": "1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.java",
           "sha": "deec251c294b26b7ab0b065b1957c964a8bb188c",
           "lastSyncedAt": "2026-11-21T04:59:25.298Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3524",
+      "title": "Find X Value of Array I",
+      "slug": "find-x-value-of-array-i",
+      "problemName": "3524-find-x-value-of-array-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-x-value-of-array-i/",
+      "folderPath": "3524-find-x-value-of-array-i/",
+      "readmePath": "3524-find-x-value-of-array-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3524-find-x-value-of-array-i.java",
+          "path": "3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.java",
+          "sha": "c58cb2eb3e05d413914971e8e2301e54f318d6e4",
+          "lastSyncedAt": "2026-11-21T05:04:49.910Z"
         }
       ]
     },
