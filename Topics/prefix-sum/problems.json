@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-21T05:08:06.761Z",
+  "updatedAt": "2026-11-21T05:10:38.793Z",
   "problems": [
     {
       "frontendId": "1621",
@@ -44,6 +44,26 @@
           "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.java",
           "sha": "b38d6d68139cdc7b6f21bd3593a83aa40fcc3650",
           "lastSyncedAt": "2026-11-21T05:04:26.317Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1872",
+      "title": "Stone Game VIII",
+      "slug": "stone-game-viii",
+      "problemName": "1872-stone-game-viii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-viii/",
+      "folderPath": "1872-stone-game-viii/",
+      "readmePath": "1872-stone-game-viii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1872-stone-game-viii.java",
+          "path": "1872-stone-game-viii/1872-stone-game-viii.java",
+          "sha": "2eb35fe504ff5ba389d5e1fa8ca3f9827e040b02",
+          "lastSyncedAt": "2026-11-21T05:10:38.793Z"
         }
       ]
     },
