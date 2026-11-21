@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-21T05:09:32.027Z",
+  "updatedAt": "2026-11-21T05:09:45.044Z",
   "problems": [
     {
       "frontendId": "1",
@@ -584,6 +584,26 @@
           "path": "3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.java",
           "sha": "0efd20c67bc1f393019bb068249fbeb5e5c8380a",
           "lastSyncedAt": "2026-11-21T05:07:59.255Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4034",
+      "title": "Minimum Bishop Moves to Reach Target",
+      "slug": "minimum-bishop-moves-to-reach-target",
+      "problemName": "4034-minimum-bishop-moves-to-reach-target",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-bishop-moves-to-reach-target/",
+      "folderPath": "4034-minimum-bishop-moves-to-reach-target/",
+      "readmePath": "4034-minimum-bishop-moves-to-reach-target/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4034-minimum-bishop-moves-to-reach-target.py",
+          "path": "4034-minimum-bishop-moves-to-reach-target/4034-minimum-bishop-moves-to-reach-target.py",
+          "sha": "b8b621826abe4a8d08fa15de9ccea1dadc6debb5",
+          "lastSyncedAt": "2026-11-21T05:09:45.044Z"
         }
       ]
     },
