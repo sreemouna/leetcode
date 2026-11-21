@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-21T05:10:23.504Z",
+  "updatedAt": "2026-11-21T05:11:10.542Z",
   "problems": [
     {
       "frontendId": "3",
@@ -84,6 +84,26 @@
           "path": "2904-shortest-and-lexicographically-smallest-beautiful-string/2904-shortest-and-lexicographically-smallest-beautiful-string.java",
           "sha": "6e35d0d8b11c333ab0020131b41b5956c0535cb9",
           "lastSyncedAt": "2026-11-21T05:10:23.504Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4032",
+      "title": "Longest Subarray With at Most K Distinct Prime Factors",
+      "slug": "longest-subarray-with-at-most-k-distinct-prime-factors",
+      "problemName": "4032-longest-subarray-with-at-most-k-distinct-prime-factors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-subarray-with-at-most-k-distinct-prime-factors/",
+      "folderPath": "4032-longest-subarray-with-at-most-k-distinct-prime-factors/",
+      "readmePath": "4032-longest-subarray-with-at-most-k-distinct-prime-factors/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4032-longest-subarray-with-at-most-k-distinct-prime-factors.py",
+          "path": "4032-longest-subarray-with-at-most-k-distinct-prime-factors/4032-longest-subarray-with-at-most-k-distinct-prime-factors.py",
+          "sha": "fe77fb26942f35169f3f2220bc1c6f4b68059eb7",
+          "lastSyncedAt": "2026-11-21T05:11:10.542Z"
         }
       ]
     }
