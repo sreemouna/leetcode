@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-21T05:07:23.924Z",
+  "updatedAt": "2026-11-21T05:15:17.438Z",
   "problems": [
     {
       "frontendId": "2265",
@@ -24,6 +24,26 @@
           "path": "2265-count-nodes-equal-to-average-of-subtree/2265-count-nodes-equal-to-average-of-subtree.java",
           "sha": "2dccb83429ad3dc17b0809a382164b72a60ecac3",
           "lastSyncedAt": "2026-11-21T05:07:23.924Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3310",
+      "title": "Remove Methods From Project",
+      "slug": "remove-methods-from-project",
+      "problemName": "3310-remove-methods-from-project",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-methods-from-project/",
+      "folderPath": "3310-remove-methods-from-project/",
+      "readmePath": "3310-remove-methods-from-project/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3310-remove-methods-from-project.java",
+          "path": "3310-remove-methods-from-project/3310-remove-methods-from-project.java",
+          "sha": "50c9b5103d473015536c6147b3f6777d8e5255c4",
+          "lastSyncedAt": "2026-11-21T05:15:17.438Z"
         }
       ]
     }
