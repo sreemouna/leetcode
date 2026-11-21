@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-21T05:16:02.191Z",
+  "updatedAt": "2026-11-21T05:16:38.037Z",
   "problems": [
     {
       "frontendId": "3",
@@ -504,6 +504,26 @@
           "path": "2904-shortest-and-lexicographically-smallest-beautiful-string/2904-shortest-and-lexicographically-smallest-beautiful-string.java",
           "sha": "6e35d0d8b11c333ab0020131b41b5956c0535cb9",
           "lastSyncedAt": "2026-11-21T05:10:23.504Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3016",
+      "title": "Minimum Number of Pushes to Type Word II",
+      "slug": "minimum-number-of-pushes-to-type-word-ii",
+      "problemName": "3016-minimum-number-of-pushes-to-type-word-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/",
+      "folderPath": "3016-minimum-number-of-pushes-to-type-word-ii/",
+      "readmePath": "3016-minimum-number-of-pushes-to-type-word-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3016-minimum-number-of-pushes-to-type-word-ii.java",
+          "path": "3016-minimum-number-of-pushes-to-type-word-ii/3016-minimum-number-of-pushes-to-type-word-ii.java",
+          "sha": "eac3b11f80d3c7640378026447486eff004b76ff",
+          "lastSyncedAt": "2026-11-21T05:16:38.037Z"
         }
       ]
     },
