@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-21T05:00:32.480Z",
+  "updatedAt": "2026-11-21T05:02:03.914Z",
   "problems": [
     {
       "frontendId": "2",
@@ -44,6 +44,26 @@
           "path": "0007-reverse-integer/0007-reverse-integer.java",
           "sha": "c41819cd11480b766d016cb0027ac3f81ee0f7af",
           "lastSyncedAt": "2026-11-21T04:58:05.434Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "60",
+      "title": "Permutation Sequence",
+      "slug": "permutation-sequence",
+      "problemName": "0060-permutation-sequence",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/permutation-sequence/",
+      "folderPath": "0060-permutation-sequence/",
+      "readmePath": "0060-permutation-sequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0060-permutation-sequence.java",
+          "path": "0060-permutation-sequence/0060-permutation-sequence.java",
+          "sha": "13141b57c40139433b205b2d6f516d0bf521c432",
+          "lastSyncedAt": "2026-11-21T05:02:03.914Z"
         }
       ]
     },
