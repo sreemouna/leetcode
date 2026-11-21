@@ -5,7 +5,7 @@
     "name": "Game Theory",
     "tagId": "61073"
   },
-  "updatedAt": "2026-11-21T05:10:38.793Z",
+  "updatedAt": "2026-11-21T05:11:00.093Z",
   "problems": [
     {
       "frontendId": "1872",
@@ -24,6 +24,26 @@
           "path": "1872-stone-game-viii/1872-stone-game-viii.java",
           "sha": "2eb35fe504ff5ba389d5e1fa8ca3f9827e040b02",
           "lastSyncedAt": "2026-11-21T05:10:38.793Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1927",
+      "title": "Sum Game",
+      "slug": "sum-game",
+      "problemName": "1927-sum-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-game/",
+      "folderPath": "1927-sum-game/",
+      "readmePath": "1927-sum-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1927-sum-game.java",
+          "path": "1927-sum-game/1927-sum-game.java",
+          "sha": "9fdf1567e23101ad68c2dcdaaa0056d72fc5391e",
+          "lastSyncedAt": "2026-11-21T05:11:00.093Z"
         }
       ]
     }
