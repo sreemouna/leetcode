@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-21T05:01:34.014Z",
+  "updatedAt": "2026-11-21T05:01:42.065Z",
   "problems": [
     {
       "frontendId": "3",
@@ -44,6 +44,26 @@
           "path": "0006-zigzag-conversion/0006-zigzag-conversion.java",
           "sha": "edc883ee9f12f2732ddfe4ccb5450738e6ad0432",
           "lastSyncedAt": "2026-11-21T04:58:10.146Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "301",
+      "title": "Remove Invalid Parentheses",
+      "slug": "remove-invalid-parentheses",
+      "problemName": "0301-remove-invalid-parentheses",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-invalid-parentheses/",
+      "folderPath": "0301-remove-invalid-parentheses/",
+      "readmePath": "0301-remove-invalid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0301-remove-invalid-parentheses.java",
+          "path": "0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.java",
+          "sha": "cc152781a41759719a70b03d9bde74e2f935880e",
+          "lastSyncedAt": "2026-11-21T05:01:42.065Z"
         }
       ]
     },
