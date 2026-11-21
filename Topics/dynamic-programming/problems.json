@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-21T05:07:01.866Z",
+  "updatedAt": "2026-11-21T05:07:45.325Z",
   "problems": [
     {
       "frontendId": "22",
@@ -64,6 +64,26 @@
           "path": "0678-valid-parenthesis-string/0678-valid-parenthesis-string.java",
           "sha": "7a8a5882eacf052679d773ce8fa9b42038755518",
           "lastSyncedAt": "2026-11-21T05:02:18.866Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "940",
+      "title": "Distinct Subsequences II",
+      "slug": "distinct-subsequences-ii",
+      "problemName": "0940-distinct-subsequences-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/distinct-subsequences-ii/",
+      "folderPath": "0940-distinct-subsequences-ii/",
+      "readmePath": "0940-distinct-subsequences-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0940-distinct-subsequences-ii.java",
+          "path": "0940-distinct-subsequences-ii/0940-distinct-subsequences-ii.java",
+          "sha": "fb74d634db3c82db7115f03c630db27c638028ce",
+          "lastSyncedAt": "2026-11-21T05:07:45.325Z"
         }
       ]
     },
