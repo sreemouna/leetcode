@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-21T05:09:21.377Z",
+  "updatedAt": "2026-11-21T05:10:02.058Z",
   "problems": [
     {
       "frontendId": "3",
@@ -424,6 +424,26 @@
           "path": "3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.java",
           "sha": "e133fed4901051751974810679393bb7269e0703",
           "lastSyncedAt": "2026-11-21T05:04:58.839Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3734",
+      "title": "Lexicographically Smallest Palindromic Permutation Greater Than Target",
+      "slug": "lexicographically-smallest-palindromic-permutation-greater-than-target",
+      "problemName": "3734-lexicographically-smallest-palindromic-permutation-greater-than-target",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/",
+      "folderPath": "3734-lexicographically-smallest-palindromic-permutation-greater-than-target/",
+      "readmePath": "3734-lexicographically-smallest-palindromic-permutation-greater-than-target/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3734-lexicographically-smallest-palindromic-permutation-greater-than-target.java",
+          "path": "3734-lexicographically-smallest-palindromic-permutation-greater-than-target/3734-lexicographically-smallest-palindromic-permutation-greater-than-target.java",
+          "sha": "31bb074347d826f0a5899fde9dc19289367fccec",
+          "lastSyncedAt": "2026-11-21T05:10:02.058Z"
         }
       ]
     },
