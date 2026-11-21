@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-21T05:07:52.913Z",
+  "updatedAt": "2026-11-21T05:09:21.377Z",
   "problems": [
     {
       "frontendId": "3",
@@ -424,6 +424,26 @@
           "path": "3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.java",
           "sha": "e133fed4901051751974810679393bb7269e0703",
           "lastSyncedAt": "2026-11-21T05:04:58.839Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4036",
+      "title": "Lexicographically Largest String After Pair Transformations",
+      "slug": "lexicographically-largest-string-after-pair-transformations",
+      "problemName": "4036-lexicographically-largest-string-after-pair-transformations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-largest-string-after-pair-transformations/",
+      "folderPath": "4036-lexicographically-largest-string-after-pair-transformations/",
+      "readmePath": "4036-lexicographically-largest-string-after-pair-transformations/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4036-lexicographically-largest-string-after-pair-transformations.py",
+          "path": "4036-lexicographically-largest-string-after-pair-transformations/4036-lexicographically-largest-string-after-pair-transformations.py",
+          "sha": "365eaece93dcb6f7ec45aa7950d7e352d24e766e",
+          "lastSyncedAt": "2026-11-21T05:09:21.377Z"
         }
       ]
     }
