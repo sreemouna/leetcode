@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-21T05:02:38.640Z",
+  "updatedAt": "2026-11-21T05:03:02.736Z",
   "problems": [
     {
       "frontendId": "22",
@@ -84,6 +84,26 @@
           "path": "1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.java",
           "sha": "deec251c294b26b7ab0b065b1957c964a8bb188c",
           "lastSyncedAt": "2026-11-21T04:59:25.298Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2267",
+      "title": " Check if There Is a Valid Parentheses String Path",
+      "slug": "check-if-there-is-a-valid-parentheses-string-path",
+      "problemName": "2267-check-if-there-is-a-valid-parentheses-string-path",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/",
+      "folderPath": "2267-check-if-there-is-a-valid-parentheses-string-path/",
+      "readmePath": "2267-check-if-there-is-a-valid-parentheses-string-path/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2267-check-if-there-is-a-valid-parentheses-string-path.java",
+          "path": "2267-check-if-there-is-a-valid-parentheses-string-path/2267-check-if-there-is-a-valid-parentheses-string-path.java",
+          "sha": "936060c4bcfc770d17ff78b3da1292789535cdc1",
+          "lastSyncedAt": "2026-11-21T05:03:02.736Z"
         }
       ]
     }
