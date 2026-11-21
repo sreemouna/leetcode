@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-21T05:14:56.860Z",
+  "updatedAt": "2026-11-21T05:16:38.037Z",
   "problems": [
     {
       "frontendId": "678",
@@ -224,6 +224,26 @@
           "path": "2897-apply-operations-on-array-to-maximize-sum-of-squares/2897-apply-operations-on-array-to-maximize-sum-of-squares.java",
           "sha": "c26d0ee6f736615323b95db1331d227f8f116425",
           "lastSyncedAt": "2026-11-21T05:00:49.531Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3016",
+      "title": "Minimum Number of Pushes to Type Word II",
+      "slug": "minimum-number-of-pushes-to-type-word-ii",
+      "problemName": "3016-minimum-number-of-pushes-to-type-word-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/",
+      "folderPath": "3016-minimum-number-of-pushes-to-type-word-ii/",
+      "readmePath": "3016-minimum-number-of-pushes-to-type-word-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3016-minimum-number-of-pushes-to-type-word-ii.java",
+          "path": "3016-minimum-number-of-pushes-to-type-word-ii/3016-minimum-number-of-pushes-to-type-word-ii.java",
+          "sha": "eac3b11f80d3c7640378026447486eff004b76ff",
+          "lastSyncedAt": "2026-11-21T05:16:38.037Z"
         }
       ]
     },
