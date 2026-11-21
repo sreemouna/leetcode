@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-21T05:10:02.058Z",
+  "updatedAt": "2026-11-21T05:11:33.466Z",
   "problems": [
     {
       "frontendId": "2472",
@@ -44,6 +44,26 @@
           "path": "3734-lexicographically-smallest-palindromic-permutation-greater-than-target/3734-lexicographically-smallest-palindromic-permutation-greater-than-target.java",
           "sha": "31bb074347d826f0a5899fde9dc19289367fccec",
           "lastSyncedAt": "2026-11-21T05:10:02.058Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4030",
+      "title": "Check ASCII Palindromic",
+      "slug": "check-ascii-palindromic",
+      "problemName": "4030-check-ascii-palindromic",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-ascii-palindromic/",
+      "folderPath": "4030-check-ascii-palindromic/",
+      "readmePath": "4030-check-ascii-palindromic/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4030-check-ascii-palindromic.py",
+          "path": "4030-check-ascii-palindromic/4030-check-ascii-palindromic.py",
+          "sha": "94eb2076a6fcf3d14b49d99356a47ca8e95d04f3",
+          "lastSyncedAt": "2026-11-21T05:11:33.466Z"
         }
       ]
     }
