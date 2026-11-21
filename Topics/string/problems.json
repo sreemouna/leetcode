@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-21T05:04:02.591Z",
+  "updatedAt": "2026-11-21T05:04:58.839Z",
   "problems": [
     {
       "frontendId": "3",
@@ -324,6 +324,26 @@
           "path": "1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.java",
           "sha": "a6281506dfc2e25435005afdc4f627db88dd4333",
           "lastSyncedAt": "2026-11-21T05:03:54.564Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3498",
+      "title": "Reverse Degree of a String",
+      "slug": "reverse-degree-of-a-string",
+      "problemName": "3498-reverse-degree-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-degree-of-a-string/",
+      "folderPath": "3498-reverse-degree-of-a-string/",
+      "readmePath": "3498-reverse-degree-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3498-reverse-degree-of-a-string.java",
+          "path": "3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.java",
+          "sha": "e133fed4901051751974810679393bb7269e0703",
+          "lastSyncedAt": "2026-11-21T05:04:58.839Z"
         }
       ]
     }
