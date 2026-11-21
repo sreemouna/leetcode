@@ -5,7 +5,7 @@
     "name": "Minimax",
     "tagId": "35"
   },
-  "updatedAt": "2026-11-21T05:14:28.411Z",
+  "updatedAt": "2026-11-21T05:15:39.495Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -24,6 +24,26 @@
           "path": "1140-stone-game-ii/1140-stone-game-ii.java",
           "sha": "f373d6f5b906afc164ce06ea82168570ae905ac4",
           "lastSyncedAt": "2026-11-21T05:14:28.411Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1406",
+      "title": "Stone Game III",
+      "slug": "stone-game-iii",
+      "problemName": "1406-stone-game-iii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-iii/",
+      "folderPath": "1406-stone-game-iii/",
+      "readmePath": "1406-stone-game-iii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1406-stone-game-iii.java",
+          "path": "1406-stone-game-iii/1406-stone-game-iii.java",
+          "sha": "c4d186464e97a053c063596493deebc1ee489f13",
+          "lastSyncedAt": "2026-11-21T05:15:39.495Z"
         }
       ]
     },
