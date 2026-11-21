@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-21T05:06:12.905Z",
+  "updatedAt": "2026-11-21T05:06:20.222Z",
   "problems": [
     {
       "frontendId": "1",
@@ -424,6 +424,26 @@
           "path": "3886-sum-of-sortable-integers/3886-sum-of-sortable-integers.java",
           "sha": "cff7f05c95d6887820195b163278fad77f855cb9",
           "lastSyncedAt": "2026-11-21T04:59:04.107Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4054",
+      "title": "Count Shadow Pairs I",
+      "slug": "count-shadow-pairs-i",
+      "problemName": "4054-count-shadow-pairs-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-shadow-pairs-i/",
+      "folderPath": "4054-count-shadow-pairs-i/",
+      "readmePath": "4054-count-shadow-pairs-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4054-count-shadow-pairs-i.py",
+          "path": "4054-count-shadow-pairs-i/4054-count-shadow-pairs-i.py",
+          "sha": "3a8120a1253cda02db0f9983951122f22c27bba8",
+          "lastSyncedAt": "2026-11-21T05:06:20.222Z"
         }
       ]
     },
