@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-21T05:04:02.591Z",
+  "updatedAt": "2026-11-21T05:08:28.241Z",
   "problems": [
     {
       "frontendId": "301",
@@ -44,6 +44,26 @@
           "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.java",
           "sha": "bd5e67fa8ca1d84d22868856c4b9af4958b95e89",
           "lastSyncedAt": "2026-11-21T05:04:02.591Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3568",
+      "title": "Minimum Moves to Clean the Classroom",
+      "slug": "minimum-moves-to-clean-the-classroom",
+      "problemName": "3568-minimum-moves-to-clean-the-classroom",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/",
+      "folderPath": "3568-minimum-moves-to-clean-the-classroom/",
+      "readmePath": "3568-minimum-moves-to-clean-the-classroom/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3568-minimum-moves-to-clean-the-classroom.java",
+          "path": "3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.java",
+          "sha": "582a62d60948c9801dfe0e26f5526cd9c98f52fd",
+          "lastSyncedAt": "2026-11-21T05:08:28.241Z"
         }
       ]
     }
