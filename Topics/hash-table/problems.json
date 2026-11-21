@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-21T05:00:49.531Z",
+  "updatedAt": "2026-11-21T05:03:28.913Z",
   "problems": [
     {
       "frontendId": "1",
@@ -124,6 +124,26 @@
           "path": "3551-minimum-swaps-to-sort-by-digit-sum/3551-minimum-swaps-to-sort-by-digit-sum.java",
           "sha": "933dffa809604115165aaacdbdb68d8408419a45",
           "lastSyncedAt": "2026-11-21T04:59:59.808Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4063",
+      "title": "Longest Subarray Divisible by K with At Most One Negation I",
+      "slug": "longest-subarray-divisible-by-k-with-at-most-one-negation-i",
+      "problemName": "4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-subarray-divisible-by-k-with-at-most-one-negation-i/",
+      "folderPath": "4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i/",
+      "readmePath": "4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i.py",
+          "path": "4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i.py",
+          "sha": "0ba0aeb4d627822d52fa0ac0ac819f3a7e1e5c52",
+          "lastSyncedAt": "2026-11-21T05:03:28.913Z"
         }
       ]
     }
