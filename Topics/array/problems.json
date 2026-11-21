@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-21T05:09:00.898Z",
+  "updatedAt": "2026-11-21T05:09:10.728Z",
   "problems": [
     {
       "frontendId": "1",
@@ -584,6 +584,26 @@
           "path": "3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.java",
           "sha": "0efd20c67bc1f393019bb068249fbeb5e5c8380a",
           "lastSyncedAt": "2026-11-21T05:07:59.255Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4038",
+      "title": "Count Integers Appearing in a Single Block",
+      "slug": "count-integers-appearing-in-a-single-block",
+      "problemName": "4038-count-integers-appearing-in-a-single-block",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-integers-appearing-in-a-single-block/",
+      "folderPath": "4038-count-integers-appearing-in-a-single-block/",
+      "readmePath": "4038-count-integers-appearing-in-a-single-block/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4038-count-integers-appearing-in-a-single-block.py",
+          "path": "4038-count-integers-appearing-in-a-single-block/4038-count-integers-appearing-in-a-single-block.py",
+          "sha": "d0a012fb2c1eef4e4bd282bba8ef8b64ea5d0f6b",
+          "lastSyncedAt": "2026-11-21T05:09:10.728Z"
         }
       ]
     },
