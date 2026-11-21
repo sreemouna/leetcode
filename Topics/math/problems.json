@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-21T04:58:36.138Z",
+  "updatedAt": "2026-11-21T04:59:04.107Z",
   "problems": [
     {
       "frontendId": "2",
@@ -44,6 +44,26 @@
           "path": "0007-reverse-integer/0007-reverse-integer.java",
           "sha": "c41819cd11480b766d016cb0027ac3f81ee0f7af",
           "lastSyncedAt": "2026-11-21T04:58:05.434Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3886",
+      "title": "Sum of Sortable Integers",
+      "slug": "sum-of-sortable-integers",
+      "problemName": "3886-sum-of-sortable-integers",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-sortable-integers/",
+      "folderPath": "3886-sum-of-sortable-integers/",
+      "readmePath": "3886-sum-of-sortable-integers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3886-sum-of-sortable-integers.java",
+          "path": "3886-sum-of-sortable-integers/3886-sum-of-sortable-integers.java",
+          "sha": "cff7f05c95d6887820195b163278fad77f855cb9",
+          "lastSyncedAt": "2026-11-21T04:59:04.107Z"
         }
       ]
     }
