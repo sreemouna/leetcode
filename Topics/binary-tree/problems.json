@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-21T04:59:25.298Z",
+  "updatedAt": "2026-11-21T05:07:23.924Z",
   "problems": [
     {
       "frontendId": "1569",
@@ -24,6 +24,26 @@
           "path": "1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.java",
           "sha": "deec251c294b26b7ab0b065b1957c964a8bb188c",
           "lastSyncedAt": "2026-11-21T04:59:25.298Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2265",
+      "title": "Count Nodes Equal to Average of Subtree",
+      "slug": "count-nodes-equal-to-average-of-subtree",
+      "problemName": "2265-count-nodes-equal-to-average-of-subtree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/",
+      "folderPath": "2265-count-nodes-equal-to-average-of-subtree/",
+      "readmePath": "2265-count-nodes-equal-to-average-of-subtree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2265-count-nodes-equal-to-average-of-subtree.java",
+          "path": "2265-count-nodes-equal-to-average-of-subtree/2265-count-nodes-equal-to-average-of-subtree.java",
+          "sha": "2dccb83429ad3dc17b0809a382164b72a60ecac3",
+          "lastSyncedAt": "2026-11-21T05:07:23.924Z"
         }
       ]
     }
