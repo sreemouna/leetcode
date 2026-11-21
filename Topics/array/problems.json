@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-21T05:07:13.378Z",
+  "updatedAt": "2026-11-21T05:07:59.255Z",
   "problems": [
     {
       "frontendId": "1",
@@ -464,6 +464,26 @@
           "path": "3886-sum-of-sortable-integers/3886-sum-of-sortable-integers.java",
           "sha": "cff7f05c95d6887820195b163278fad77f855cb9",
           "lastSyncedAt": "2026-11-21T04:59:04.107Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3904",
+      "title": "Smallest Stable Index II",
+      "slug": "smallest-stable-index-ii",
+      "problemName": "3904-smallest-stable-index-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-stable-index-ii/",
+      "folderPath": "3904-smallest-stable-index-ii/",
+      "readmePath": "3904-smallest-stable-index-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3904-smallest-stable-index-ii.java",
+          "path": "3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.java",
+          "sha": "0efd20c67bc1f393019bb068249fbeb5e5c8380a",
+          "lastSyncedAt": "2026-11-21T05:07:59.255Z"
         }
       ]
     },
