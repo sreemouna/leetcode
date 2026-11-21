@@ -5,7 +5,7 @@
     "name": "Zero-Sum Game",
     "tagId": "122082"
   },
-  "updatedAt": "2026-11-21T05:10:38.793Z",
+  "updatedAt": "2026-11-21T05:13:00.693Z",
   "problems": [
     {
       "frontendId": "1872",
@@ -24,6 +24,26 @@
           "path": "1872-stone-game-viii/1872-stone-game-viii.java",
           "sha": "2eb35fe504ff5ba389d5e1fa8ca3f9827e040b02",
           "lastSyncedAt": "2026-11-21T05:10:38.793Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2029",
+      "title": "Stone Game IX",
+      "slug": "stone-game-ix",
+      "problemName": "2029-stone-game-ix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ix/",
+      "folderPath": "2029-stone-game-ix/",
+      "readmePath": "2029-stone-game-ix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2029-stone-game-ix.java",
+          "path": "2029-stone-game-ix/2029-stone-game-ix.java",
+          "sha": "c3ff4aa0a02c0e5df2655699e917d79ecbc7a73d",
+          "lastSyncedAt": "2026-11-21T05:13:00.693Z"
         }
       ]
     }
