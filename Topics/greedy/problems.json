@@ -5,8 +5,28 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-21T05:01:20.516Z",
+  "updatedAt": "2026-11-21T05:01:53.702Z",
   "problems": [
+    {
+      "frontendId": "921",
+      "title": "Minimum Add to Make Parentheses Valid",
+      "slug": "minimum-add-to-make-parentheses-valid",
+      "problemName": "0921-minimum-add-to-make-parentheses-valid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+      "folderPath": "0921-minimum-add-to-make-parentheses-valid/",
+      "readmePath": "0921-minimum-add-to-make-parentheses-valid/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0921-minimum-add-to-make-parentheses-valid.java",
+          "path": "0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.java",
+          "sha": "84077e4b14c1275f8a2f2f068f05d44e31ef2563",
+          "lastSyncedAt": "2026-11-21T05:01:53.702Z"
+        }
+      ]
+    },
     {
       "frontendId": "1541",
       "title": "Minimum Insertions to Balance a Parentheses String",
